@@ -68,7 +68,7 @@ function checkDuplicateItems(formConfig) { // Check a given Form Configuration f
 
 
 // Debug Logging
-console.log('Loading Resources...' + (debug ? '\n[DEBUG MODE ENABLED\n\n' : '\n\n'));
+console.log('Loading Resources...' + (debug ? '\n[DEBUG MODE ENABLED]\n\n' : '\n\n'));
 
 
 // Import Static Data
