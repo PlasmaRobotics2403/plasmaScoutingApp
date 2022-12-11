@@ -4,7 +4,7 @@
   "description": "Plasma Scouting App",
   "main": "main.js",
   "dependencies": {
-    "express": "^4.17.1",
+    "express": "^4.17.3",
     "file": "^0.2.2",
     "fs-extra": "^8.1.0",
     "md5-file": "^4.0.0",
